@@ -6359,6 +6359,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 	position: relative;
 }
 
+
 #page-title h1 {
 	padding: 0;
 	margin: 0;
@@ -6486,7 +6487,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 	background-image: url('images/parallax/parallax-bg.jpg');
 	background-attachment: fixed;
 	background-position: 50% 0;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat; 	
 }
 
 
