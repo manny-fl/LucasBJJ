@@ -132,7 +132,7 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::-webkit-selection {
-	background: #1ABC9C; /* Safari */
+	background:#1ABC9C ; /* Safari */
 	color: #FFF;
 	text-shadow: none;
 }
@@ -156,10 +156,10 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #1ABC9C;
+	color: black;
 }
 
-a:hover { color: #222; }
+a:hover { color: darkred; }
 
 a img { border: none; }
 
@@ -3585,7 +3585,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 .menu-item:hover > .menu-link,
 .menu-item.current > .menu-link {
-	color: #1ABC9C;
+	color: darkred;
 }
 
 .menu-item.sub-menu > .menu-link > div { }
@@ -6877,7 +6877,7 @@ body:not(.device-touch) .portfolio {
 }
 
 .portfolio-desc h3 a:hover {
-	color: #1ABC9C;
+	color: darkred;
 }
 
 .portfolio-desc span {
