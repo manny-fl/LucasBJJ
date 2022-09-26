@@ -11,11 +11,11 @@ WEBSITE BREAKDOWN
   
   2. Instructor Introduction
   
-  3. Simple Course Purpose Overview
+  3. Simple Courses Description
   
-  4. Image Course Array with Links to Purchase Website.
+  4. Image Course Layout with Links to Purchase Content.
   
-  5. Seminar Email enquiry
+  5. Seminar Email Inquiry
   
   6. Social Links and Contact Information 
 
