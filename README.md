@@ -6,7 +6,7 @@ Themeforest Template: https://themeforest.net/item/canvas-the-multipurpose-html5
 DESCRIPTION OVERVIEW;
   .The objective of the Website is to bring Visitors to the Instructors(Lucas Leite) Courses and contact for Seminar Information. 
   
-   This Website is a platform for the Instructor to promote his/her content professionally. More features can be added if neccessary.
+   This Website is a platform for the Instructor to promote their content professionally. More features can be added if neccessary.
   
 WEBSITE BREAKDOWN
   1. Site Navigation
