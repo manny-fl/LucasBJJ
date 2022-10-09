@@ -3,10 +3,8 @@ Jiujitsu gym
 
 Themeforest Template: https://themeforest.net/item/canvas-the-multipurpose-html5-template/9228123
 
-DESCRIPTION OVERVIEW;
-  .The objective of the Website is to bring Visitors to the Instructors(Lucas Leite) Courses and contact for Seminar Information. 
-  
-   This Website is a platform for the Instructor to promote their content professionally. More features can be added if neccessary.
+DESCRIPTION OVERVIEW; 
+   Platform for the Instructor to promote their content professionally.
   
 WEBSITE BREAKDOWN
   1. Site Navigation
@@ -22,6 +20,6 @@ WEBSITE BREAKDOWN
   6. Social Links and Contact Information 
 
 Building Process:
-  .The Website began as a Themeforest template and was taken apart to display only what was felt essential for the Desired Objective.
+  .The Website began as a Themeforest template.
   
-  .Afterwards The layout was changed with simple  html,css and bootstrap.
+  . Layout changed with html,css and bootstrap.
